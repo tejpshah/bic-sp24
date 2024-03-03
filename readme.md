@@ -1,5 +1,4 @@
 # Assignment 1
-Concepts:
 - Hodgkin-Huxley Neuron
 - Biological Plausibility of the Hodgkin-Huxley Model
 - Leaky Integrate-and-Fire (LIF) Model
