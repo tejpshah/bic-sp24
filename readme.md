@@ -10,6 +10,15 @@
 - Encoding Continuous Inputs into Spikes
 - Tuning Membrane Properties of LIF Neuron
 
+# Assignment 2
+- Neuron information representation
+- Neuron network construction
+- Spiking networks propagation
+- LIF neurons implementation
+- Feedforward networks basics
+- SNN construction and input processing
+- MNIST data encoding and classification
+
 # Academic Integrity
 Please follow both Rutgers University's Principles of Academic Integrity and the Rutgers Department of Computer Science's Academic Integrity Policy.
 
