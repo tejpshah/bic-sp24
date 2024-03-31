@@ -19,6 +19,17 @@
 - SNN construction and input processing
 - MNIST data encoding and classification
 
+# Assignment 3
+- Learning Algorithms and Objectives
+- Biological Plausibility of Learning Rules
+- Hebbian Learning Rule
+- Encoding and Training for AND Gate
+- Limitations of Hebbian Learning
+- Oja's Learning Rule
+- Spike-Timing Dependent Plasticity (STDP)
+- STDP Implementation and Training
+- Encoding and Training for OR Gate
+
 # Academic Integrity
 Please follow both Rutgers University's Principles of Academic Integrity and the Rutgers Department of Computer Science's Academic Integrity Policy.
 
