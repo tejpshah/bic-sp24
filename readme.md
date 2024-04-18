@@ -30,6 +30,16 @@
 - STDP Implementation and Training
 - Encoding and Training for OR Gate
 
+# Assignment 4
+- Spatiotemporal Backpropagation (STBP) for Training SNNs
+- Pseudo-Gradient Approximation for Spiking Neurons
+- Leaky Integrate-and-Fire (LIF) Neuron Layer
+- Constructing a Single Hidden Layer SNN
+- Encoding MNIST Images into Spike Trains
+- Training the SNN using STBP
+- Initializing and Training the SNN Model
+- Key Lessons Learned
+
 # Academic Integrity
 Please follow both Rutgers University's Principles of Academic Integrity and the Rutgers Department of Computer Science's Academic Integrity Policy.
 
